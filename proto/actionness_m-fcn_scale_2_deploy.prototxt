@@ -1,6 +1,6 @@
 name: "M-FCN_Scale_2"
 input: "data"
-input_dim: 100
+input_dim: 50
 input_dim: 4
 input_dim: 240
 input_dim: 320
