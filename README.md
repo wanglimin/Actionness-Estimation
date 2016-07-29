@@ -8,6 +8,12 @@ Here we provide the code of actionness estimation with hybrid fully convolutiona
 
 - Jul 22, 2016
   * Initilaize repo of actionness estimation.
+
+### Demo code
+- **demo_a_fcn.m**: an example showing actionness estimation with A-FCN.
+- **demo_m_fcn.m**: an example showing actionness estimation with M-FCN.
+- For optical flow extraction, we use TVL1 Optical Flow </br>
+You need download our dense flow code and compile it by yourself. [Dense Flow](https://github.com/wanglimin/dense_flow)
   
 ### Download
 - Actionness estimation models (A-FCN) on the dataset of Stanford 40: <br />
