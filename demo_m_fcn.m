@@ -1,4 +1,3 @@
-addpath /home/lmwang/code/caffe_data_parallel/caffe/matlab
 % demo code of actionness estimation
 path_flow = 'example/';
 gpu_id = 0;
