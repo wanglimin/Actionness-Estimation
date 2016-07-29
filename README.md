@@ -1,4 +1,4 @@
-# Actionness Estimation Using Hybrid Fully Convolutional Networks
+# Actionness Estimation Using Hybrid FCNs
 Here we provide the code of actionness estimation with hybrid fully convolutional networks from the following paper:
 
     Actionness Estimation Using Hybrid Fully Convolutional Netoworks
